@@ -32,7 +32,7 @@
     "algoliasearch": "^3.24.9",
     "cloudinary": "^1.9.0",
     "cors": "^2.8.4",
-    "express-jwt": "^5.3.1",
+    "express-jwt": "^6.0.0",
     "fast-csv": "^2.4.0",
     "form-data": "^2.3.1",
     "fs-extra": "^4.0.2",
