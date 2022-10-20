@@ -43,7 +43,7 @@
     "lodash.get": "^4.4.2",
     "lodash.pick": "^4.4.0",
     "moment": "^2.22.2",
-    "mongoose": "^5.5.13",
+    "mongoose": "^4.13.21",
     "mongoose-paginate": "^5.0.3",
     "node-fetch": "^1.7.3",
     "socket.io": "^2.1.1"
