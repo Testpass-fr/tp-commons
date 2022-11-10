@@ -46,7 +46,7 @@
     "mongoose": "^5.5.13",
     "mongoose-paginate": "^5.0.3",
     "node-fetch": "^1.7.3",
-    "socket.io": "^2.1.1"
+    "socket.io": "^2.5.0"
   },
   "resolutions": {
     "bson": "1.0.5",
